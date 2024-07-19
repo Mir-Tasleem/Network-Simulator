@@ -11,10 +11,12 @@ import os
 def main():
     st.title("Network Simulator")
 
+
     st.sidebar.title("Select Simulation")
     page = st.sidebar.selectbox("Select",("Layer 1","Layer 2","Error Control","Access Control", "Sliding Window","IP Addressing","Transport Layer"))
 
-   
+    
+        
     if page == "Layer 1":
         from simulations import layer1
         layer1.main()
