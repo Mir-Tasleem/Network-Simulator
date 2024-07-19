@@ -1,6 +1,5 @@
 import streamlit as st
 import random
-import networkx as nx
 import matplotlib.pyplot as plt
 import ipaddress
 import os
