@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f852686-6bc4-4197-b45a-ffaedde75a5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Networks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layer1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csma-cd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layer2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layer1.py" beforeDir="false" afterPath="$PROJECT_DIR$/layer1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2eRRKhlq9bQuEIfOwXqmnTlGem7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,10 +36,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.DLL.executor": "Run",
+    "Python.access  control.executor": "Run",
+    "Python.access_control.executor": "Run",
+    "Python.csma-cd.executor": "Run",
+    "Python.error control.executor": "Run",
+    "Python.l2.executor": "Run",
     "Python.layer1.executor": "Run",
+    "Python.layer2.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sliding window.executor": "Run",
+    "Python.st.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mirta/OneDrive/Desktop/Bot_Bot"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Networks"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -62,5 +70,16 @@
       <updated>1711865342275</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
